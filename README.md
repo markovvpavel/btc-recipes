@@ -51,3 +51,8 @@ The goal of `index.ts` is to handle the process of waiting for a payment from a 
 
 5. **Transaction Confirmation:**
    - If the transaction is confirmed and matches the expected criteria (correct amount and within the time window), the payment is considered successful.
+
+## Useful Links
+
+**Faucet**: https://coinfaucet.eu/en/btc-testnet
+**Explorer**: https://blockstream.info/testnet

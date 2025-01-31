@@ -1,6 +1,6 @@
 # BTC Recipes
 
-![Cover Image](path/to/your/cover-image.jpg)
+![Cover Image](https://raw.githubusercontent.com/markovvpavel/btc-recipes/refs/heads/main/cover.jpg)
 
 This project is a Bitcoin wallet and transaction pool management system. It allows users to create wallets, manage transactions, and monitor the payment status from customers without knowing the transaction ID. The system waits for up to 30 minutes to confirm the transaction and verify that the payment has been received.
 

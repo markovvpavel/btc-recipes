@@ -91,12 +91,12 @@ const main = async () => {
         );
         return true; // Stop the watcher
       }
+
+      return true;
     } catch (error) {
       // Log any errors during transaction checking
       console.error(error);
       return true; // Stop the watcher in case of error
-    } finally {
-      return true; // Ensure the watcher stops if no conditions are met
     }
   };
 
